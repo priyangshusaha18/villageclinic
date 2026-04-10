@@ -55,7 +55,7 @@ To provide a simple system for managing patient data and follow-ups in rural hea
 ---
 
 ## 👨‍💻 Author
-Your Name  
+Priyangshu Saha
 MCA | UEM Kolkata
 
 ---
